@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DayTopView">
+        <attr name="day" format="integer"/>
+        <attr name="dayWeek" format="string" />
+        <attr name="chosen" format="boolean" />
+        <attr name="muted" format="boolean" />
+    </declare-styleable>
+</resources>

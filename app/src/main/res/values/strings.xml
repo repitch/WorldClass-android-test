@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WorldClassTest</string>
+    <string name="result_ok">Все хорошо</string>
+    <string name="result_notregistered">Пользователь не зарегистрирован в ЛК</string>
+    <string name="result_incorrect_cid">Некорректный формат логина</string>
+    <string name="result_incorrect_pass">Некорректный формат пароля</string>
+    <string name="result_login_or_pass_incorrect">Логин или пароль неверны</string>
+    <string name="result_pass_expired">Срок действия временного пароля истек</string>
+    <string name="result_has_expiration">Пароль временный и срок его действия истечет</string>
+    <string name="result_unknown">Неизвестная ошибка</string>
+    <string name="type_customer">Клиент</string>
+    <string name="type_employee">Работник</string>
+</resources>

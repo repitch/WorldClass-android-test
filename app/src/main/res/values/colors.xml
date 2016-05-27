@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF000A</color>
+    <color name="colorPrimaryDark">#BF3030</color>
+    <color name="colorPrimaryDarkest">#A60000</color>
+    <color name="colorAccent">#00CC00</color>
+    <color name="colorAccentDark">#269926</color>
+    <color name="colorAccentDarkest">#008500</color>
+    <color name="black">#000</color>
+
+    <color name="colorWorldClass">#FF000A</color>
+    <color name="colorWorldClassLite">#00ff62</color>
+    <color name="colorZhukovkaRomanov">#6c3825</color>
+    <color name="colorWhite">#fff</color>
+</resources>
